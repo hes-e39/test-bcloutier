@@ -1,7 +1,7 @@
 {
   "name": "react-deploy",
   "version": "0.1.0",
-  "homepage": "https://hes-e39.github.io/react-deploy/",
+  "homepage": "https://hes-e39.github.io/test-bcloutier/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
